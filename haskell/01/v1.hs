@@ -18,6 +18,4 @@ main = do
   let arr1 = init intArr
   let arr2 = tail intArr
 
-  print arr1
-  print arr2
   print (compareLists arr1 arr2)
